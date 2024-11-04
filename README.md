@@ -43,7 +43,7 @@ Using a VPN adds another layer of complexity, but it doesn’t make a device com
 #
 ### Related Links
 
-[2fa](https://github.com/sourceduty/2fa)
+[2FA](https://github.com/sourceduty/2FA)
 <br>
 [Hack Simulator](https://github.com/sourceduty/Hack_Simulator)
 <br>
